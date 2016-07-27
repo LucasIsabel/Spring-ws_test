@@ -1,0 +1,8 @@
+src/main/resources/application.properties
+.classpath
+.idea
+.project
+.settings
+*.iml
+*.swp
+target
